@@ -1,0 +1,4 @@
+-hi
+-i make aimlock scripts for roblox
+-im learning luau
+-$ finn#7247 on kord
